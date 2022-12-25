@@ -36,6 +36,8 @@ function parseIGC(igcFile) {
             'WES': 'Westerboer',
             'XCS': 'XCSoar',
             'XCT': 'XCTrack',
+            'XSD': 'Stodeus',
+            'XSX': 'SKYTRAXX',
             'ZAN': 'Zander'
         };
 
